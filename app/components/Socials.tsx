@@ -9,7 +9,7 @@ const Socials = () => {
       <Link href="https://www.instagram.com/its.gr_/">
         <InstagramLogo className="scale-100 hover:scale-150 duration-300 cursor-pointer" />
       </Link>
-      <Link href="https://open.spotify.com/user/	1hxaksorhps73anma9e5b9zw9">
+      <Link href="https://open.spotify.com/user/1hxaksorhps73anma9e5b9zw9">
         <SpotifyLogo className="scale-100 hover:scale-150 duration-300 cursor-pointer" />
       </Link>
       <Link href="https://github.com/guidsribeiro">
