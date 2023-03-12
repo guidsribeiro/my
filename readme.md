@@ -1,6 +1,6 @@
 # <p align="center"> my website 🎈</p> 
 
-### <div align="center"><code> código fonte do meu site com meus trabalhos, projetos e sobremim. 🍃 <br>acesse</code> <a href="https://onlygr.tech" alt="GR Site">aqui</a></div>
+### <div align="center"><code> código fonte do meu site 🍃 <br>acesse</code> <a href="https://onlygr.tech" alt="GR Site">aqui</a></div>
  
 
 -------------------------------------------------------------------------------------------------------------------------------------------
